@@ -18,4 +18,4 @@ def test_exercise():
 
     src.exercise.main()
 
-    assert output == ["","","","",14]
+    assert output == ["","","","","",1]
